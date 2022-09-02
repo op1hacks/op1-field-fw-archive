@@ -49,6 +49,44 @@ Versions are listed in chronological order.
 * fix occasional hanging midi notes when switching octave
 
 
+### [op1_field_firmware_1_2_5.tfw](firmware/op1_field_firmware_1_2_5.tfw?raw=true)
+
+**Change Log**
+
+* per-tape mixer settings
+* unlimited lift / drop length
+* increased endless sequencer steps to 999
+* velocity support in endless, pattern, arpeggio and hold sequencer
+* allow deleting snapshot patches
+* lift tape head with blue encoder in tape screen
+* add lift and drop to master tricks
+* tap T1-T4 quickly to switch tracks without soloing
+* lifting multiple tracks from tape to sampler keeps mute & pan info
+* lift / drop clipboard survives power-off
+* don't normalize when dropping audio into synth / drum sampler
+* pitch bend did not go back to neutral position
+* fix MIDI clock glitch when pressing play
+* audio headphone output would not start with some devices
+* fix deleting active tape in tape browser
+* tweak drum midi velocity response
+* mtp improvements and fixes
+* other bug & crash fixes
+* ui improvements
+
+
+### [op1_field_firmware_1_2_7.tfw](firmware/op1_field_firmware_1_2_7.tfw?raw=true)
+
+**Change Log**
+
+* fix bug that could cause key presses not to register
+* fix crash when switching between certain patches
+* fix crash when deleting the last drum snapshot
+* fix patch not saved after drum key lift/drop
+* multi-track tape drop could insert old audio without clips
+* support full external midi range in arpeggio sequencer
+* improved midi sync
+
+
 ## Missing files
 
 There might be earlier firmware versions that aren't listed here but they're probably not publicly available anyway.
