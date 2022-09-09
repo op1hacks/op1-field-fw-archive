@@ -9,6 +9,8 @@ Versions are listed in chronological order.
 
 ### [op1_field_firmware_1_1_2.tfw](firmware/op1_field_firmware_1_1_2.tfw?raw=true)
 
+Release date: 2022-05-12
+
 **Change Log**
 
 * mtp/disk improvements & fixes
@@ -26,6 +28,8 @@ Versions are listed in chronological order.
 
 ### [op1_field_firmware_1_1_4.tfw](firmware/op1_field_firmware_1_1_4.tfw?raw=true)
 
+Release date: 2022-06-01
+
 **Change Log**
 
 * filter accidental encoder clicks
@@ -40,6 +44,8 @@ Versions are listed in chronological order.
 
 ### [op1_field_firmware_1_1_6.tfw](firmware/op1_field_firmware_1_1_6.tfw?raw=true)
 
+Release date: 2022-06-16
+
 **Change Log**
 
 * fix bug where input signal could get distorted
@@ -50,6 +56,8 @@ Versions are listed in chronological order.
 
 
 ### [op1_field_firmware_1_2_5.tfw](firmware/op1_field_firmware_1_2_5.tfw?raw=true)
+
+Release date: 2022-08-31
 
 **Change Log**
 
@@ -76,6 +84,8 @@ Versions are listed in chronological order.
 
 ### [op1_field_firmware_1_2_7.tfw](firmware/op1_field_firmware_1_2_7.tfw?raw=true)
 
+Release date: 2022-09-02
+
 **Change Log**
 
 * fix bug that could cause key presses not to register
@@ -88,6 +98,8 @@ Versions are listed in chronological order.
 
 
 ### [op1_field_firmware_1_2_9.tfw](firmware/op1_field_firmware_1_2_9.tfw?raw=true)
+
+Release date: 2022-09-09
 
 **Change Log**
 
