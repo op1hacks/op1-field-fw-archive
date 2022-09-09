@@ -87,6 +87,15 @@ Versions are listed in chronological order.
 * improved midi sync
 
 
+### [op1_field_firmware_1_2_9.tfw](firmware/op1_field_firmware_1_2_9.tfw?raw=true)
+
+**Change Log**
+
+* fix random factory reset bug when shutting down with usb device connected
+* fix noise when dropping multitrack tape to samplers
+* fix arpeggio crash
+
+
 ## Missing files
 
 There might be earlier firmware versions that aren't listed here but they're probably not publicly available anyway.
