@@ -9,6 +9,8 @@ Versions are listed in chronological order.
 
 ### [op1_field_firmware_1_1_2.tfw](firmware/op1_field_firmware_1_1_2.tfw?raw=true)
 
+Release date: 2022-05-12
+
 **Change Log**
 
 * mtp/disk improvements & fixes
@@ -26,6 +28,8 @@ Versions are listed in chronological order.
 
 ### [op1_field_firmware_1_1_4.tfw](firmware/op1_field_firmware_1_1_4.tfw?raw=true)
 
+Release date: 2022-06-01
+
 **Change Log**
 
 * filter accidental encoder clicks
@@ -40,6 +44,8 @@ Versions are listed in chronological order.
 
 ### [op1_field_firmware_1_1_6.tfw](firmware/op1_field_firmware_1_1_6.tfw?raw=true)
 
+Release date: 2022-06-16
+
 **Change Log**
 
 * fix bug where input signal could get distorted
@@ -47,6 +53,59 @@ Versions are listed in chronological order.
 * fix crash when pitching down synth samples very low
 * convert lfo amount on older synth patches to correspond to engine changes
 * fix occasional hanging midi notes when switching octave
+
+
+### [op1_field_firmware_1_2_5.tfw](firmware/op1_field_firmware_1_2_5.tfw?raw=true)
+
+Release date: 2022-08-31
+
+**Change Log**
+
+* per-tape mixer settings
+* unlimited lift / drop length
+* increased endless sequencer steps to 999
+* velocity support in endless, pattern, arpeggio and hold sequencer
+* allow deleting snapshot patches
+* lift tape head with blue encoder in tape screen
+* add lift and drop to master tricks
+* tap T1-T4 quickly to switch tracks without soloing
+* lifting multiple tracks from tape to sampler keeps mute & pan info
+* lift / drop clipboard survives power-off
+* don't normalize when dropping audio into synth / drum sampler
+* pitch bend did not go back to neutral position
+* fix MIDI clock glitch when pressing play
+* audio headphone output would not start with some devices
+* fix deleting active tape in tape browser
+* tweak drum midi velocity response
+* mtp improvements and fixes
+* other bug & crash fixes
+* ui improvements
+
+
+### [op1_field_firmware_1_2_7.tfw](firmware/op1_field_firmware_1_2_7.tfw?raw=true)
+
+Release date: 2022-09-02
+
+**Change Log**
+
+* fix bug that could cause key presses not to register
+* fix crash when switching between certain patches
+* fix crash when deleting the last drum snapshot
+* fix patch not saved after drum key lift/drop
+* multi-track tape drop could insert old audio without clips
+* support full external midi range in arpeggio sequencer
+* improved midi sync
+
+
+### [op1_field_firmware_1_2_9.tfw](firmware/op1_field_firmware_1_2_9.tfw?raw=true)
+
+Release date: 2022-09-09
+
+**Change Log**
+
+* fix random factory reset bug when shutting down with usb device connected
+* fix noise when dropping multitrack tape to samplers
+* fix arpeggio crash
 
 
 ## Missing files
