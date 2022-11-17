@@ -108,6 +108,26 @@ Release date: 2022-09-09
 * fix arpeggio crash
 
 
+### [op1_field_firmware_1_3_2.tfw](firmware/op1_field_firmware_1_3_2.tfw?raw=true)
+
+Release date: 2022-11-17
+
+**Change Log**
+
+* keyboard velocity sensitivity
+* mono / stereo setting for line in
+* pre tape pan
+* import wav files via mtp
+* pre scan for best fm transmit frequencies
+* adjust tape speed to external clock
+* sync transmit frequency with OB–4
+* finger sequencer velocity support
+* fixed arpeggio bug with "each" setting
+* fixed lift/drop crashes
+* misc crash fixes
+* misc ui fixes
+
+
 ## Missing files
 
 There might be earlier firmware versions that aren't listed here but they're probably not publicly available anyway.
