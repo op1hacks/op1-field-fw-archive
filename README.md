@@ -128,6 +128,21 @@ Release date: 2022-11-17
 * misc ui fixes
 
 
+### [op1_field_firmware_1_3_7.tfw](firmware/op1_field_firmware_1_3_7.tfw?raw=true)
+
+Release date: 2022-12-19
+
+**Change Log**
+
+* fix patch switch crash
+* fix shift+T1 crash
+* fix tape switch crash
+* fix lost sampler recordings
+* fix patch drop
+* fix minor ui bugs
+* keep track level when pressing drum/synth while tape is running
+
+
 ## Missing files
 
 There might be earlier firmware versions that aren't listed here but they're probably not publicly available anyway.
