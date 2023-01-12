@@ -143,6 +143,17 @@ Release date: 2022-12-19
 * keep track level when pressing drum/synth while tape is running
 
 
+### [op1_field_firmware_1_4_2.tfw](firmware/op1_field_firmware_1_4_2.tfw?raw=true)
+
+Release date: 2023-01-12
+
+**Change Log**
+
+* new vocoder synth engine
+* start armed tape recording on external MIDI
+* mtp: allow aiff and aifc files for patches* fix patch switch crash
+
+
 ## Missing files
 
 There might be earlier firmware versions that aren't listed here but they're probably not publicly available anyway.
