@@ -154,6 +154,19 @@ Release date: 2023-01-12
 * mtp: allow aiff and aifc files for patches* fix patch switch crash
 
 
+### [op1_field_firmware_1_4_5.tfw](firmware/op1_field_firmware_1_4_5.tfw?raw=true)
+
+Release date: 2023-03-29
+
+**Change Log**
+
+* fix metronome playing over PO sync
+* fix PO sync resetting when triggering sequencers
+* fix vocoder muted by panning right in tape screen
+* fix reverse tape trick not working when in midi sync mode
+* fix dbox note stealing bug
+
+
 ## Missing files
 
 There might be earlier firmware versions that aren't listed here but they're probably not publicly available anyway.
