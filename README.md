@@ -108,9 +108,69 @@ Release date: 2022-09-09
 * fix arpeggio crash
 
 
+### [op1_field_firmware_1_3_2.tfw](firmware/op1_field_firmware_1_3_2.tfw?raw=true)
+
+Release date: 2022-11-17
+
+**Change Log**
+
+* keyboard velocity sensitivity
+* mono / stereo setting for line in
+* pre tape pan
+* import wav files via mtp
+* pre scan for best fm transmit frequencies
+* adjust tape speed to external clock
+* sync transmit frequency with OB–4
+* finger sequencer velocity support
+* fixed arpeggio bug with "each" setting
+* fixed lift/drop crashes
+* misc crash fixes
+* misc ui fixes
+
+
+### [op1_field_firmware_1_3_7.tfw](firmware/op1_field_firmware_1_3_7.tfw?raw=true)
+
+Release date: 2022-12-19
+
+**Change Log**
+
+* fix patch switch crash
+* fix shift+T1 crash
+* fix tape switch crash
+* fix lost sampler recordings
+* fix patch drop
+* fix minor ui bugs
+* keep track level when pressing drum/synth while tape is running
+
+
+### [op1_field_firmware_1_4_2.tfw](firmware/op1_field_firmware_1_4_2.tfw?raw=true)
+
+Release date: 2023-01-12
+
+**Change Log**
+
+* new vocoder synth engine
+* start armed tape recording on external MIDI
+* mtp: allow aiff and aifc files for patches
+
+
+### [op1_field_firmware_1_4_5.tfw](firmware/op1_field_firmware_1_4_5.tfw?raw=true)
+
+Release date: 2023-03-29
+
+**Change Log**
+
+* fix metronome playing over PO sync
+* fix PO sync resetting when triggering sequencers
+* fix vocoder muted by panning right in tape screen
+* fix reverse tape trick not working when in midi sync mode
+* fix dbox note stealing bug
+
+
 ## Missing files
 
-There might be earlier firmware versions that aren't listed here but they're probably not publicly available anyway.
+There might be earlier or other firmware versions that aren't listed here but they're probably not publicly available anyway.
+There might also be more recent firmware versions so be sure to check out the TE official downloads to find the latest firmware. You should get the latest firmware from them anyway, this list is mainly for archival purposes.
 
 
 ## Sources
